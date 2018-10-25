@@ -1,10 +1,10 @@
-## Your Name
+## Kirill Zabrodin
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a junior software developer that has a passion for computer hardware as well as software. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
-#### This Skill
+#### Hardware
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +12,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Public Speaking
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -34,13 +34,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Eton College (2011-2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Maths, Further Maths, Physics and Russian A Level
+- A*, A, A, A* respecitvely
+- Head of Catholicism, deputy head of bridge and deputy head of MUN
 
 #### Any other qualifications
+
+I am a qualified NZSIA Level 2 ski instructor
 
 ## Experience
 
