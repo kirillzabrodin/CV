@@ -41,12 +41,14 @@ Having competed at Model United Nations (MUN) for over 3 years and having won at
 
 - I have been interested in code since 2009 when a teacher introduced me to BBC Basic. I have been coding ever since.
 - I am adept at self-learning and time management as I have had to complete the junior Russian education while studying in the UK.
-- Apart from working in groups in MUN I have also worked as part of a team in Fusion Asset Management. I thrive when I can bounce ideas between people within a working group and love doing so.
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, DDD, SOLID
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, JavaScript, Python
+- RSpec, Jasmine, unitest, Cypress, Capybara
+- Sinatra, Express, Rails, 
+- Travic CI, Heroku
+- MongoDB, PostgreSQL
 
 #### Eton College (09/11 - 06/16)
 
