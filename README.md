@@ -1,8 +1,24 @@
 ## Kirill Zabrodin
 
-I am a junior software developer that has a passion for computer hardware as well as software. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a software developer that has a passion for computer hardware as well as software. Having completed Makers Academy I am someone who is driven and has a real desire to learn and improve while contributing to an agile team. Processes are important to me as client satisfaction is my number one priority.
+
+## Current Status
+
+I am currently looking for work experience or an unpaid internship before starting a BSc in Computer Science in October.
 
 ## Skills
+
+#### Coding
+
+I'm a follower of TDD, agile process enthusiast, and lover of SOLID. Proficient in JavaScript, Ruby, Python, Cypress, Jasmine, RSpec, Unitest, Rails, Express, Next.js, MongoDB, PostgreSQL, Sinatra, Capybara, Travis CI, Heroku, NodeJS, Cypress and React. I learned all this at Makers Academy and in my own spare time. Here is a highlight of the projects I have done.
+
+| Project       | Summary       |
+| ------------- | ------------- |
+| [Acebook](https://github.com/tomasdoh/acebook-floppy-disk)  | A two week Ruby on Rails project on making a basic facebook clone. A truly agile development process documented in the wiki and a fully tested app.  |
+| [Bank Tech Test](https://github.com/kirillzabrodin/bank_tech_test)  | A short project displaying good documentation and SRP on a basic project. Fully tested with randomised tests and full test coverage.  |
+|[Notes SPA](https://github.com/kirillzabrodin/notes-SPA)|The notes single page app is an interesting vanilla JS project that dived into understanding how React works and simulating some of its functionality. A testing framework was used to test it and it is deployed on heroku.|
+|[RSpec Creation](https://github.com/kirillzabrodin/rspec-creation)| A simple ruby testing framework created to emulate RSpec. |
+
 
 #### Hardware
 
